@@ -1,0 +1,25 @@
+{
+  "returned_dict": {
+    "loss": 0.5,
+    "zones": 2.0,
+    "nb tours": 0.0,
+    "steps": [
+      106
+    ],
+    "variable_seed": 15,
+    "status": "ok",
+    "start_time": 1790017964.897805,
+    "duration": 4.5620269775390625
+  },
+  "current_params": {
+    "N": 1000,
+    "connectivity": 0.1,
+    "input_connectivity": 0.1,
+    "input_scaling": 0.4161580404258932,
+    "lr": 0.1756845796922626,
+    "noise_rc": 0.009635804874968802,
+    "ridge": 3.196141139772428e-05,
+    "seed": 15,
+    "sr": 0.27763239239671
+  }
+}
